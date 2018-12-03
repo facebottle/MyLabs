@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    background-image: url(https://www.solidbackgrounds.com/images/2560x1440/2560x1440-gray-solid-color-background.jpg);
+    background-repeat: no-repeat;
+}
+li{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(240, 240, 240);
+}
